@@ -1,0 +1,66 @@
+body{
+  background-image: linear-gradient(to right, rgb(236, 189, 101), rgb(255, 115, 255))
+}
+.box{
+background-color: rgb(175,133,53);
+height: 600px;
+width: 900px;
+margin-top: 6%;
+display: flex;
+margin-left: 15%;
+border-radius: 5px;
+}
+
+.box2{
+background-color: #ffffff;
+height: 600px;
+width: 650px;
+
+}
+.esther{
+display: flex;
+}
+label{
+font-size: 20px;
+}
+input{
+font-size: 20px;
+}
+.fullname{
+padding: 10px;
+}
+.username{
+padding: 10px;
+}
+.signupbtn{
+padding: 15px;
+background-color: rgb(207, 79, 101);
+color: white;
+border: none;
+border-radius: 5px;
+}
+.signup{
+background-color: blue;
+padding: 15px;
+border-radius: 5px;
+border: none;
+}
+.box1 h1{
+margin-left: 10%;
+font-size: small;
+}
+.box1 h2{
+margin-left: 10%;
+}
+.box1 h3{
+margin-left: 10%;
+margin-top: 30%;
+}
+.box1 img{
+margin-top: 20%;
+}
+p{
+margin-top: 2%;
+}
+
+
